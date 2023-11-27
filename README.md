@@ -33,8 +33,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" title="c" **alt="c" width="40" height="40"/> 
   <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" title="C++" **alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>
-  <img src="https://media.pocketgamer.biz/2021/5/110514/discord-new-logo-2021-r225x225.jpg" title="Discord" **alt="Discord" width="40" height="40"/> 
+  <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp;
+  <img src="https://media.pocketgamer.biz/2021/5/110514/discord-new-logo-2021-r225x225.jpg" title="Discord" **alt="Discord" width="40" height="40"/>&nbsp;
 </div>
 
 ---
