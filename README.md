@@ -17,8 +17,8 @@
 - :telescope: I’m a Software Engineering Student looking to sharpen my skills in programming.
 - :seedling: Currently exploring web developement using HTML, CSS, and Javascript.
 - :zap: I have a solid understanding of Java, C, C++, and SQL with the ability to write and debug code in these languages.
-- :zap: I am passionate about staying at the forefront of technological advancements and hope to deliver high-quality software in the future.
-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-wong-sen-li-542748222/)
+- 🏗️: I am passionate about staying at the forefront of technological advancements and hope to deliver high-quality software in the future.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-wong-sen-li-542748222/)
  
 ---
 
