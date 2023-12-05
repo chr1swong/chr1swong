@@ -17,7 +17,7 @@
 - :telescope: I’m a Software Engineering Student looking to sharpen my skills in programming.
 - :seedling: Currently exploring web developement using HTML, CSS, and Javascript.
 - :zap: I have a solid understanding of Java, C, C++, and SQL with the ability to write and debug code in these languages.
-- 🏗️: I am passionate about staying at the forefront of technological advancements and hope to deliver high-quality software in the future.
+- 🤝 I am passionate about staying at the forefront of technological advancements and hope to deliver high-quality software in the future.
 - 📫 How to reach me **chriswong0839@gmail.com**
   
 
