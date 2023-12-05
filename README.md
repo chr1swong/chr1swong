@@ -38,9 +38,7 @@
 
 ### 🔥 My Stats:
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=chr1swong&theme=radical" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats-eosin-rho.vercel.app?user=chr1swong&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
