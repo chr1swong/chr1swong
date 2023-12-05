@@ -19,7 +19,6 @@
 - :zap: I have a solid understanding of Java, C, C++, and SQL with the ability to write and debug code in these languages.
 - 🏗️: I am passionate about staying at the forefront of technological advancements and hope to deliver high-quality software in the future.
 - 📫 How to reach me **chriswong0839@gmail.com**
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-wong-sen-li-542748222/)
   
 
 <h3 align="left">Connect with me:</h3>
