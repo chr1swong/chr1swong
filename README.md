@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://git.io/streak-stats" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr1swong&hide=javascript,css,scss,html&theme=tokyonight"/>
   </a>
 </p>
