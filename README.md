@@ -14,11 +14,11 @@
 ---
 
 ### 👨‍💻: About Me : 
-- :telescope: I’m a Software Engineering Student looking to sharpen my skills in programming.
-- :seedling: Currently exploring web developement using HTML, CSS, and Javascript.
-- :zap: I have a solid understanding of Java, C, C++, and SQL with the ability to write and debug code in these languages.
-- 🤝 I am passionate about staying at the forefront of technological advancements and hope to deliver high-quality software in the future.
-- 📫 How to reach me **chriswong0839@gmail.com**
+- :telescope: As a Software Engineering Student, I am dedicated to honing my programming skills and contributing meaningfully to the field.
+- :seedling: Currently, I am immersed in exploring web development, utilizing HTML, CSS, and JavaScript to create dynamic and responsive web applications.
+- :zap: With a proficient understanding of Java, C, C++, and SQL, I possess the expertise to develop and debug code effectively in these languages.
+- 🤝 Committed to staying abreast of the latest technological advancements, I am driven by the passion to deliver high-quality software solutions that meet the evolving needs of users.
+- 📫  Feel free to reach out to me at **chriswong0839@gmail.com**.
   
 
 <h3 align="left">Connect with me:</h3>
