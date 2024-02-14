@@ -14,10 +14,12 @@
 ---
 
 ### 👨‍💻: About Me : 
-- :telescope: As a Software Engineering Student, I am dedicated to honing my programming skills and contributing meaningfully to the field.
-- :seedling: Currently, I am immersed in exploring web development, utilizing HTML, CSS, and JavaScript to create dynamic and responsive web applications.
-- :zap: With a proficient understanding of Java, C, C++, and SQL, I possess the expertise to develop and debug code effectively in these languages.
+- :telescope: I am a dedicated Software Engineering Student passionate about honing my programming skills and contributing meaningfully to the field. Currently immersed in exploring web development, utilizing HTML, CSS, and JavaScript to create dynamic and responsive web applications.
+- :seedling: Alongside my academic pursuits, I actively seek to stay abreast of the latest technological advancements. With a proficient understanding of Java, C, C++, and SQL, I possess the expertise to develop and debug code effectively in these languages.
+- :zap: My commitment to excellence extends beyond technical skills; I prioritize delivering high-quality software solutions that meet the evolving needs of users. I thrive in collaborative environments and have experience working in teams on various projects.
 - 🤝 Committed to staying abreast of the latest technological advancements, I am driven by the passion to deliver high-quality software solutions that meet the evolving needs of users.
+- 📚 Education: Bachelor Of Computer Science with Honours
+(Software Engineering), Universiti Malaysia Sabah
 - 📫  Feel free to reach out to me at **chriswong0839@gmail.com**.
   
 
