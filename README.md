@@ -18,7 +18,7 @@
   
 - :seedling: Alongside my academic pursuits, I actively seek to stay abreast of the latest technological advancements. With a proficient understanding of Java, C, C++, and SQL, I possess the expertise to develop and debug code effectively in these languages.
   
-- 🌟 My commitment to excellence extends beyond technical skills; I prioritize delivering high-quality software solutions that meet the evolving needs of users. I thrive in collaborative environments and have experience working in teams on various projects.
+- 🌟 My commitment to excellence extends beyond technical skills; I prioritize delivering high-quality software solutions that meet the evolving needs of users. I thrive in collaborative environments and have experience working in teams on various projects. 
   
 - 📚 Education: Bachelor Of Computer Science with Honours
 (Software Engineering), Universiti Malaysia Sabah
