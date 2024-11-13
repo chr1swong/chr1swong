@@ -15,7 +15,7 @@
 
 ### 👨‍💻: About Me : 
 - :telescope: I am a Software Engineering Student looking to hone my programming skills and contributing meaningfully to the field. Currently immersed in exploring web development, utilizing HTML, CSS, and JavaScript to create dynamic and responsive web applications.
-  
+   
 - :seedling: Alongside my academic pursuits, I actively seek to stay abreast of the latest technological advancements. With a proficient understanding of Java, C, C++, and SQL, I possess the expertise to develop and debug code effectively in these languages.
   
 - 🌟 My commitment to excellence extends beyond technical skills; I prioritize delivering high-quality software solutions that meet the evolving needs of users. I thrive in collaborative environments and have experience working in teams on various projects. 
